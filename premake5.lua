@@ -3,7 +3,7 @@ hazelClientLocation = debug.getinfo(1).source:match("@?(.*/)")
 
 include "vendor/Hazel"
 
-HazelWorkspace("KSP", "KSP")
+HazelWorkspace("KSP")
 SetupHazel()
 
 project "KSP"
