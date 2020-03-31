@@ -1,0 +1,9 @@
+[submodule "vendor/Calc"]
+	path = vendor/Calc
+	url = https://github.com/TroyNeubauer/Calculus-Cpp.git
+[submodule "vendor/Hazel"]
+	path = vendor/Hazel
+	url = https://github.com/TroyNeubauer/Hazel.git
+[submodule "vendor/protobuf"]
+	path = vendor/protobuf
+	url = https://github.com/protocolbuffers/protobuf.git
