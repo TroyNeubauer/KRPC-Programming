@@ -34,3 +34,5 @@
 **/.idea
 Null-Clients.iml
 local.properties
+
+vendor/protobuf
