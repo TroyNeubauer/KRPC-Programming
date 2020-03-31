@@ -1,0 +1,36 @@
+# Directories
+
+**/bin/
+!vendor/bin/
+**/bin-int/
+
+#Visual Studio
+**/.vs/
+**/*.sln
+**/*.vcxproj*
+
+#make
+**/Makefile
+**/.project
+**/.workspace
+
+#OSX
+**/.DS_Store
+
+#XCode
+**/*.xcodeproj
+**/*.xcworkspace
+
+**/logs/
+**/*.hzp.json
+**/imgui.ini
+
+**/.modules/
+**/*.gradle
+**/CMakeLists.txt
+
+
+#Android
+**/.idea
+Null-Clients.iml
+local.properties
