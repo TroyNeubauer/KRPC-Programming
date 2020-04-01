@@ -22,6 +22,7 @@ project "KSP"
 		"vendor/krpc-cpp/protobuf",
 		"vendor/protobuf/src",
 		"vendor/asio/include",
+		"vendor/glm",
 	}
 
 	defines
